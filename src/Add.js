@@ -22,7 +22,7 @@ const AddActivity =()=>{
 
 
       <div className='text-black text-[16px] w-screen font-sans pt-2'>
-      Add Activity
+      Add This AddActivity
       </div>
       </div>
       </div>
